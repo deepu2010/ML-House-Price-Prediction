@@ -38,6 +38,13 @@ In this project, I have implemented linear regression for training my model and 
 Overall, from the dataset I could infer that, 1 unit increase in Avg. Area Number of Bedrooms is associated with an increase of $2233.80 of the house price.
 
 
+# Skills Used:
 
+### 1. Python3
+### 2. Statistics
+### 3. Data Analysis
+### 4. Data Visualization
+### 5. Regression
+### 6. Model Evaluation
 
 
