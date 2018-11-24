@@ -8,7 +8,7 @@ This project is helpful for real estate agents who wants some help predicting ho
 
 # About the dataset
 
-### Size of the dataset: 5000 rows x 7 colums
+### Size of the dataset: 5000 rows x 7 columns
 
 The data contains the following columns:
 
@@ -26,7 +26,7 @@ The data contains the following columns:
 ### 1.Evaluating the dataset
 ### 2. Splitting the dataset
 ### 3. Applying Machine Learning algorithms to train our model
-### 4. Intepreting from the trained model
+### 4. Interpreting from the trained model
 ### 5. Testing our model
 ### 6. Evaluating our model
 
